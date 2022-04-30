@@ -1,6 +1,15 @@
 # Coloured
 Summary - UX design project complete with research on the coloured people of South Africa and Figma prototype that targets the dimensions of education and discrimination within the community
 
+Sources - 
+Coloureds - Minority Rights Group https://minorityrights.org/minorities/coloureds/
+Race in South Africa: 'We haven't learnt we are human beings first' - BBC News https://www.bbc.com/news/world-africa-55333625
+South Africa's coloured community: 'Still marginalised after apartheid' - BBC Africa - YouTube https://www.youtube.com/watch?v=OQpt7B3xCn8
+EPISODE 4: WHAT IS COLOURED CULTURE? - YouTube https://www.youtube.com/watch?v=OXpeaFRL0fU
+Being Coloured in South Africa - YouTube https://www.youtube.com/watch?v=WrFA-mLT9_U
+Stereotypes: Black People vs Coloured People - YouTube https://www.youtube.com/watch?v=60OtXkDzxpE
+
+
 
 Factoids -
 	https://minorityrights.org/minorities/coloureds/
