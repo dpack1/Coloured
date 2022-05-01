@@ -1,49 +1,51 @@
 # Coloured
-Summary - UX design project complete with research on the coloured people of South Africa and Figma prototype that targets the dimensions of education and discrimination within the community
+## Summary
+UX design project complete with research on the coloured people of South Africa and Figma prototype that targets the dimensions of education and discrimination within the community
 
-Sources - 
-Coloureds - Minority Rights Group https://minorityrights.org/minorities/coloureds/
-Race in South Africa: 'We haven't learnt we are human beings first' - BBC News https://www.bbc.com/news/world-africa-55333625
-South Africa's coloured community: 'Still marginalised after apartheid' - BBC Africa - YouTube https://www.youtube.com/watch?v=OQpt7B3xCn8
-EPISODE 4: WHAT IS COLOURED CULTURE? - YouTube https://www.youtube.com/watch?v=OXpeaFRL0fU
-Being Coloured in South Africa - YouTube https://www.youtube.com/watch?v=WrFA-mLT9_U
-Stereotypes: Black People vs Coloured People - YouTube https://www.youtube.com/watch?v=60OtXkDzxpE
+## Sources
+- Coloureds - Minority Rights Group https://minorityrights.org/minorities/coloureds/
+- Race in South Africa: 'We haven't learnt we are human beings first' - BBC News https://www.bbc.com/news/world-africa-55333625
+- South Africa's coloured community: 'Still marginalised after apartheid' - BBC Africa - YouTube https://www.youtube.com/watch?v=OQpt7B3xCn8
+- EPISODE 4: WHAT IS COLOURED CULTURE? - YouTube https://www.youtube.com/watch?v=OXpeaFRL0fU
+- Being Coloured in South Africa - YouTube https://www.youtube.com/watch?v=WrFA-mLT9_U
+- Stereotypes: Black People vs Coloured People - YouTube https://www.youtube.com/watch?v=60OtXkDzxpE
 
 
 
-Factoids -
-	https://minorityrights.org/minorities/coloureds/
-8.9% identify as coloured
-Most coloured people speak Afrikaans as a first language
-Live in western and northern Cape provinces
-Poverty levels of 41.6%
+## Factoids
+- https://minorityrights.org/minorities/coloureds/
+	- 8.9% identify as coloured
+	- Most coloured people speak Afrikaans as a first language
+	- Live in western and northern Cape provinces
+	- Poverty levels of 41.6%
 
-https://www.bbc.com/news/world-africa-55333625
-But many in the country, including Mr Snyman, who founded the organization People Against Racial Classification (Parc) in 2010, believe the use of the categories has no place in a democratic South Africa.
-white people continue to dominate the economy in terms of ownership and decision-making power.
-government can only measure progress through statistics based on the old categories.
-continued use of racial classification to monitor change has led to the hardening of the categories.
-the dominance of a racial identity has prevented the forging of a truly common identity. - Dr. Saths Cooper
+- https://www.bbc.com/news/world-africa-55333625
+	- But many in the country, including Mr Snyman, who founded the organization People Against Racial Classification (Parc) in 2010, believe the use of the categories has no place in a democratic South Africa.
+	- white people continue to dominate the economy in terms of ownership and decision-making power.
+	- government can only measure progress through statistics based on the old categories.
+	- continued use of racial classification to monitor change has led to the hardening of the categories.
+	- the dominance of a racial identity has prevented the forging of a truly common identity. - Dr. Saths Cooper
  
-https://www.youtube.com/watch?v=OQpt7B3xCn8
-South Africa has one of the highest youth unemployment rates in the world
-22% of coloured south Africans are unemployed (lower than the black majority)
-Avoiding Gangs is a huge problem
-Many students finish matrit ( I assume middle or highschool) and dont have a job
-Unemployed students stand on corners to receive jobs as drug dealers
-Most students in highschool especially girls use drugs (usually crystal meth)
-The police largely target taking down drug dealers (the community has felt safer because it means less shootings)
-Young people lose a sense of purpose and hope leaving them vulnerable to gang recruitment
-https://www.youtube.com/watch?v=OXpeaFRL0fU
-The Colored community doesnt have a clear sense of what makes them different, but they are able to identify this subconounciously 
+- https://www.youtube.com/watch?v=OQpt7B3xCn8
+	- South Africa has one of the highest youth unemployment rates in the world
+	- 22% of coloured south Africans are unemployed (lower than the black majority)
+	- Avoiding Gangs is a huge problem
+	- Many students finish matrit ( I assume middle or highschool) and dont have a job
+	- Unemployed students stand on corners to receive jobs as drug dealers
+	- Most students in highschool especially girls use drugs (usually crystal meth)
+	- The police largely target taking down drug dealers (the community has felt safer because it means less shootings)
+	- Young people lose a sense of purpose and hope leaving them vulnerable to gang recruitment
+	
+- https://www.youtube.com/watch?v=OXpeaFRL0fU
+	- The Colored community doesnt have a clear sense of what makes them different, but they are able to identify this subconounciously 
  
-https://www.youtube.com/watch?v=WrFA-mLT9_U
-A large amount of discrimination against not being white enough or black enough
-https://www.youtube.com/watch?v=60OtXkDzxpE
-Lots of cultural stereotypes and confusion regarding race
+- https://www.youtube.com/watch?v=WrFA-mLT9_U
+	- A large amount of discrimination against not being white enough or black enough
+- https://www.youtube.com/watch?v=60OtXkDzxpE
+	- Lots of cultural stereotypes and confusion regarding race
 
 
-Dimension -
+## Dimension
 Feels Discriminated against Skin color
 Education
 
